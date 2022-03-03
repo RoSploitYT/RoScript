@@ -1,4 +1,4 @@
-# RoScript
+# RoScript 🐱‍💻
 Hi Rosploiter 👋,
 
 Here you will be able to find a huge list of Roblox scripts, which will save you a lot of time searching for your scripts on the web.
